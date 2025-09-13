@@ -1,9 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Mainur Islam Rahat</h1>
 <h3 align="center">Full-Stack Developer | Competitive Programmer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://i.gifer.com/GYny.gif" alt="coding" width="400"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Developer-2E87F7?style=for-the-badge" alt="Full Stack Developer">
