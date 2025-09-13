@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=2E87F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Competitive+Programmer;Problem+Solver;React+Specialist" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-2E87F7?style=for-the-badge" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/Competitive_Programmer-2E87F7?style=for-the-badge" alt="Competitive Programmer">
+  <img src="https://img.shields.io/badge/Problem_Solver-2E87F7?style=for-the-badge" alt="Problem Solver">
+  <img src="https://img.shields.io/badge/React_Specialist-2E87F7?style=for-the-badge" alt="React Specialist">
 </p>
 
 ---
