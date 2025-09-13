@@ -1,63 +1,75 @@
-<h1 align="center">Hey there! 👋 I'm Mainur Islam Rahat</h1>
-<h3 align="center">Full-Stack Developer | Competitive Programmer | Problem Solver</h3>
-
+<h1 align="center">✨ Hey there! I'm Mainur Islam Rahat ✨</h1>
+<h3 align="center">🚀 Full-Stack Developer | 🏆 Competitive Programmer | 💡 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-2E87F7?style=for-the-badge" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/Competitive_Programmer-2E87F7?style=for-the-badge" alt="Competitive Programmer">
-  <img src="https://img.shields.io/badge/Problem_Solver-2E87F7?style=for-the-badge" alt="Problem Solver">
-  <img src="https://img.shields.io/badge/React_Specialist-2E87F7?style=for-the-badge" alt="React Specialist">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2E87F7&center=true&vCenter=true&width=500&lines=React+Enthusiast;Code+Artisan;Continuous+Learner;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mainurrahat&label=Profile%20Views&color=2E87F7&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Dynamic%20Coder-100%25-2E87F7" alt="Dynamic Coder">
+  <img src="https://img.shields.io/badge/Coffee%20Lover-☕-2E87F7" alt="Coffee Lover">
 </p>
 
 ---
 
-### 🎯 About Me
+## 👨‍💻 About Me
 
-Aspiring full-stack developer with a strong background in C++, JavaScript, and modern web frameworks. I thrive in fast-paced environments and enjoy problem-solving, competitive programming, and building impactful applications.
+<p align="center">
+  <i>"Turning coffee into code and ideas into reality"</i> ☕➡️💻
+</p>
 
-- 📍 **Location:** Chittagong, Bangladesh
-- 📧 **Email:** Mainurrahat51@gmail.com
-- 📞 **Phone:** +8801890159627
-- 🎓 **Education:** B.Sc. in Computer Science & Engineering, International Islamic University Chittagong (Expected 2026)
+I'm a passionate full-stack developer with expertise in modern web technologies and a strong foundation in competitive programming. I thrive on solving complex problems and building applications that make a difference.
+
+📍 **Chittagong, Bangladesh** | 📧 **Mainurrahat51@gmail.com** | 📞 **+8801890159627**
+
+🎓 **B.Sc. in Computer Science & Engineering** at International Islamic University Chittagong (Expected 2026)
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-#### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 📋 Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### ⚡ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![QT](https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
-### 🏆 Competitive Programming Achievements
+## 🏆 Competitive Programming
 
 <div align="center">
 
-| Platform | Badge | Username | Rating | Problems Solved |
-| :--- | :---: | :--- | :---: | :---: |
-| **Codeforces** | <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white" alt="Codeforces"> | `Mainurrahat47` | **1147** | **900+** ✅ |
-| **LeetCode** | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode"> | `Mainurrahat47` | - | **150+** ✅ |
-| **CodeChef** | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"> | `Mainurrahat47` | **1226** | **200+** ✅ |
+### 🎯 Platform Statistics
+
+| Platform | Profile | Rating | Problems Solved |
+|:---:|:---:|:---:|:---:|
+| **Codeforces** | [Mainurrahat47](https://codeforces.com/profile/mainurrahat47) | **1147** | **900+** |
+| **LeetCode** | [Mainurrahat47](https://leetcode.com/mainurrahat47) | - | **150+** |
+| **CodeChef** | [Mainurrahat47](https://www.codechef.com/users/mainurrahat47) | **1226** | **200+** |
 
 </div>
 
@@ -65,88 +77,59 @@ Aspiring full-stack developer with a strong background in C++, JavaScript, and m
 
 <div align="center">
 
-📊 **Total Problems Solved:** <kbd>1300+</kbd> across all platforms  
-🏅 **Contests Attended:** <kbd>50+</kbd> across various online judges
+### 📊 Overall Achievements
+
+![Total Problems](https://img.shields.io/badge/Total%20Problems%20Solved-1300+-2E87F7?style=for-the-badge)
+![Contests Attended](https://img.shields.io/badge/Contests%20Attended-50+-2E87F7?style=for-the-badge)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Elite-2E87F7?style=for-the-badge)
 
 </div>
 
 ---
 
-<br>
-
-<div style="background: linear-gradient(135deg, #2E87F7, #1a5bb9); color: white; padding: 15px; border-radius: 10px; margin: 20px 0;">
-  <h4>🎖️ Overall Achievements</h4>
-  <p><strong>1300+</strong> Problems Solved • <strong>50+</strong> Contests Attended</p>
-</div>
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-  
-🎯 **Total Milestone:** <img src="https://img.shields.io/badge/Problems_Solved-1300+-2E87F7?style=flat-square" alt="Total Problems"> 
-📅 **Contests:** <img src="https://img.shields.io/badge/Contests_Attended-50+-2E87F7?style=flat-square" alt="Contests Attended">
-
-</div>
-
----
-<br>
+## 📈 GitHub Analytics
 
 <div align="center">
 
-📊 **Total Problems Solved:** <kbd>1300+</kbd> across all platforms  
-🏅 **Contests Attended:** <kbd>50+</kbd> across various online judges
+![Mainur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mainurrahat&show_icons=true&theme=radical&count_private=true&border_radius=15&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mainurrahat&layout=compact&theme=radical&border_radius=15&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mainurrahat&theme=radical&border_radius=15&fire=2E87F7)
 
 </div>
 
 ---
 
-### 📈 GitHub Stats
+## 🌐 Connect With Me
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mainurrahat&show_icons=true&theme=radical&count_private=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainurrahat&layout=compact&theme=radical" />
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mainurrahat51@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mainur-rahat-8159b8237)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mainurrahat)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mainurrahat47)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mainurrahat47)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mainurrahat47)
+
 </div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mainurrahat&theme=radical" alt="mainurrahat" />
+
+### ⚡ Fun Fact
+
+> "I've solved over 1300 problems across various platforms - that's more than one problem for every day of the year! 🚀"
+
 </div>
 
 ---
 
-### 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="mailto:Mainurrahat51@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mainur-rahat-8159b8237">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mainurrahat">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/mainurrahat47">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/mainurrahat47">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/mainurrahat47">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a>
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=mainurrahat&style=flat-square&color=2E87F7)
 
----
+**Thanks for visiting my profile! Let's build something amazing together.** 💫
 
-<p align="center"> 
-  <b>Visitors Count</b><br>
-  <img src="https://profile-counter.glitch.me/mainurrahat/count.svg" />
-</p>
-
-<p align="center">
-  <i>Always open to new opportunities and collaborations!</i> 🚀
-</p>
+</div>
