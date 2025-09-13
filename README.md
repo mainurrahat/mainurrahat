@@ -48,29 +48,59 @@ Aspiring full-stack developer with a strong background in C++, JavaScript, and m
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+### 🏆 Competitive Programming Achievements
+
+<div align="center">
+
+| Platform | Badge | Username | Rating | Problems Solved |
+| :--- | :---: | :--- | :---: | :---: |
+| **Codeforces** | <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white" alt="Codeforces"> | `Mainurrahat47` | **1147** | **900+** ✅ |
+| **LeetCode** | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode"> | `Mainurrahat47` | - | **150+** ✅ |
+| **CodeChef** | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"> | `Mainurrahat47` | **1226** | **200+** ✅ |
+
+</div>
+
+<br>
+
+<div align="center">
+
+📊 **Total Problems Solved:** <kbd>1300+</kbd> across all platforms  
+🏅 **Contests Attended:** <kbd>50+</kbd> across various online judges
+
+</div>
+
 ---
 
-### 🏆 Competitive Programming
+<br>
 
-#### Codeforces
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-- **Username:** Mainurrahat47
-- **Max Rating:** 1147
-- **Problems Solved:** 900+
+<div style="background: linear-gradient(135deg, #2E87F7, #1a5bb9); color: white; padding: 15px; border-radius: 10px; margin: 20px 0;">
+  <h4>🎖️ Overall Achievements</h4>
+  <p><strong>1300+</strong> Problems Solved • <strong>50+</strong> Contests Attended</p>
+</div>
 
-#### LeetCode
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-- **Username:** Mainurrahat47
-- **Problems Solved:** 150+
+</div>
 
-#### CodeChef
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)
-- **Username:** Mainurrahat47
-- **Max Rating:** 1226
-- **Problems Solved:** 200+
+---
 
-**Total Problems Solved:** 1300+ across all platforms  
-**Contests Attended:** 50+ across various online judges
+<br>
+
+<div align="center">
+  
+🎯 **Total Milestone:** <img src="https://img.shields.io/badge/Problems_Solved-1300+-2E87F7?style=flat-square" alt="Total Problems"> 
+📅 **Contests:** <img src="https://img.shields.io/badge/Contests_Attended-50+-2E87F7?style=flat-square" alt="Contests Attended">
+
+</div>
+
+---
+<br>
+
+<div align="center">
+
+📊 **Total Problems Solved:** <kbd>1300+</kbd> across all platforms  
+🏅 **Contests Attended:** <kbd>50+</kbd> across various online judges
+
+</div>
 
 ---
 
