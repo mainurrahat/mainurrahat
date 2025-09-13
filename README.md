@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Mainur Islam Rahat</h1>
+<h1 align="center">Hey there! 👋 I'm Mainur Islam Rahat</h1>
 <h3 align="center">Full-Stack Developer | Competitive Programmer | Problem Solver</h3>
 
 <p align="center">
